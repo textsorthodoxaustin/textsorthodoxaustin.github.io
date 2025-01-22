@@ -3,6 +3,13 @@ body {
   font-size:14px;
 }
 
+#navbar {
+  text-align: center;
+  top: 0;
+  overflow: hidden;
+  background-color: rgba(135, 189, 111, 0.9);
+}
+
 .home-container {
   width: 100%;
   display: flex;
@@ -14,7 +21,7 @@ body {
 .home-text {
   color: var(--dl-color-gray-black);
   font-size: 45px;
-  font-family: "Arial";
+  font-family:'Cinzel', Trajan Pro, Georgia, serif;
 }
 .home-header {
   width: 100%;
